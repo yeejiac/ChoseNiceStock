@@ -1,2 +1,1 @@
-web: gunicorn mylinebot.wsgi
-heroku ps:scale web=1
+web: gunicorn ChoseNiceStock.wsgi
