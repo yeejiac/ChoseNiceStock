@@ -1,1 +1,1 @@
-web: gunicorn ChoseNiceStock.wsgi
+web: gunicorn mylinebot.wsgi
